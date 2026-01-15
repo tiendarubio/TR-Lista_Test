@@ -1,0 +1,7 @@
+{
+  "name": "trlista-firebase-auth-roles",
+  "private": true,
+  "type": "module",
+  "version": "1.1.0",
+  "description": "TRLista2.0 con Firebase Auth + roles (users/{uid}) + aportes por usuario (sin choques) + histórico por día (flatpickr) y catálogo/proveedores vía Google Sheets (proxy en Vercel)."
+}
